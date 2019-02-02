@@ -5,7 +5,5 @@ def my_collect(array)
      collection << array[i]
      i += 1
    end
-   collection  
+   collection
 end
-
-
